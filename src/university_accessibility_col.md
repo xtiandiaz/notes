@@ -1,7 +1,10 @@
 > Higher education faces several challenges in Latin America, such as access inequality, low enrollment rates, a mismatch between specialties offered and the needs of the labor market, and low graduation rates ([^~[Dudziak, 2007](http://www.scielo.org.co/scielo.php?script=sci_arttext&pid=S0123-34322019000100013#B16)~]; [^~[Holm-Nielsen, Thorn, Brunner & Balán, 2005](http://www.scielo.org.co/scielo.php?script=sci_arttext&pid=S0123-34322019000100013#B25)~]). Due to inequalities in access to education, many students do not receive sufficient preparation in academic literacies to succeed in higher education ([^~[Holm-Nielsen, et al., 2005](http://www.scielo.org.co/scielo.php?script=sci_arttext&pid=S0123-34322019000100013#B25)~]). Furthermore, universities often reproduce access inequalities by favoring students who have had the privilege of attending private schools.
 
-* Access inequality in universities is simply another form of the rooted social inequality.
+* Access inequality in universities is simply another form of the country's rooted social inequality.
 * People with the average, meager funds cannot access private universities – it's ostentatiously and unfairly expensive.
 * Private universities' admission is solely based on stratification and selection over a raised and steep financial threshold.
 * Behind a financial and social classification, private universities don't evaluate applicant's knowledge and skills, which should be primordial. And the high-school and ICFES scores evaluation is merely a facade 'to assess' their applicants' reputation.
-* The private universities' emphasis is in showing off their infrastructure and allegeded opportunities of professional development. 
+* The private universities' emphasis is in showing off infrastructure and alleged opportunities of professional development. Yet, the quality of education is below international averages.
+* Overall, the private universities and their students' outlook is classist, pretentious, and seggregative. 
+* Furthermore, their 'education' is more a matter of status than of competence for both students and 'professors'.
+* And competence is not aimed at innovation, development and evolution. No. Simply to 'secure' employment for sustenance, accumulation of wealth, and flattering of international, explota
