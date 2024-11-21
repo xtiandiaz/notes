@@ -3,6 +3,15 @@
 ## Log
 `git log --oneline --graph`
 
+## Remote
+### List
+`git remote -v`
+
+### Set URL
+`git remote set-url origin git@[hostname]:[username]/[repo_name].git`
+
+e.g., `[hostname]`: `xtiandiaz.github.com` (as described @ `~/.ssh/config`)
+
 ## Config
 ### User
 `git config user.name "Name Surname"` \
