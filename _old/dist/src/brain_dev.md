@@ -1,0 +1,3 @@
+At the young age our brains are extremely moldable (given their highest level of plasticity), exceedingly sensitive to stimuli (given their unfamiliarity to external phenomena), and extraordinarily absorbent of information (given their growing and developing memory).  All of these attributes gradually subside with age, more or less depending on the attention to detail and proper maintenance to our brains. 
+
+However, as a result of the increasing dependence on technology (for both, 'productivity' and entertainment), the ingestion of stimulants and high sugar and salt diets, and the dwindling quality and span of human interaction 
