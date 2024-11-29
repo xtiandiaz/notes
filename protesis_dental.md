@@ -39,10 +39,10 @@
 1. La colocación requiere escasos ajustes oclusales para lo que se utiliza **papel articular** (40 μ).
 2. Una semana después la paciente se puede presentar a la consulta reportando dolor al colocar y utilizar la prótesis (inferior).
 3. Para evaluar la textura superficial se usa spray oclusal por la discriminación visual que ofrece y con lo que se pueden confirmar microvestigios de material. 
-    1. Desgaste a baja velocidad (fresa de bola n.º 6 de carburo).
+    1. **Desgaste** a baja velocidad (fresa de bola n.º 6 de carburo).
     2. Retiro del espray con agua y cepillo.
-    3. Pulido con disco de fieltro y abrasivo.
-    4. Abrillantamiento con cepillo y pasta de 6 µ.
+    3. **Pulido** con disco de fieltro y abrasivo.
+    4. **Abrillantamiento** con cepillo y pasta de 6 µ.
     
 Es difícil percibir los defectos a simple vista; en el seguimiento se utiliza el espray para corroborar los defectos. El spray-oclusal puede ser de mucha utilidad como:
 
@@ -55,7 +55,7 @@ Es difícil percibir los defectos a simple vista; en el seguimiento se utiliza e
 
 ## Preguntas a resolver (S/N)
 
-- Es necesario un mayor pulido?
+- Es necesario un mayor pulido? Seguramente, sí.
 
 No obstante, el sobrepulido puede soltar la prótesis aún más de lo que está. Por tanto, 
  
@@ -70,5 +70,4 @@ No obstante, el sobrepulido puede soltar la prótesis aún más de lo que está.
 ![image](_img/llaga-protesis-dental-ma-2.jpeg)
 ![image](_img/llaga-protesis-dental-ma-causa-1.jpeg)
 ![image](_img/protesis-dental-ma-por-pulir-1.jpeg)
-
 

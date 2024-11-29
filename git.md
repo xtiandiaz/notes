@@ -3,6 +3,11 @@
 ## Log
 `git log --oneline --graph`
 
+## Push
+
+### First
+`git push -u origin main`
+
 ## Remote
 ### List
 `git remote -v`
