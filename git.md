@@ -61,4 +61,4 @@ Location: `.git/modules/[name]/config`
 `git submodule add git@[hostname]:[username]/[repo_name].git [optional_subfolder]`
 
 ### Remove
-`git rm [submodule_folder]`
+`git rm [submodule_folder]` (optionally `--cached`)
