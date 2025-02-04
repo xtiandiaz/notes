@@ -10,7 +10,7 @@
 
 ## Package
 
-### Installa
+### Install
 `npm i <package_name>@<version_number>` (optionally `@latest`; `-D` or `--save-dev` as **dev** dependency)
 
 ### Uninstall

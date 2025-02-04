@@ -2,11 +2,9 @@
 
 ## Log
 `git log --oneline --graph`
-### First
-`git push -u origin main`
 
 ## Remote
-### Add
+### Add origin
 `git remote add orign git@[hostname]:[username]/[repo_name].git`
 
 ### List
@@ -29,6 +27,10 @@ e.g., `[hostname]`: `xtiandiaz.github.com` (as described @ `~/.ssh/config`)
 `git pull origin main --allow-unrelated-histories`
 ### Without merge, just rebase
 `git pull --rebase`
+
+## Push
+### First
+`git push -u origin main`
 
 ## Reset
 ## Forfeit all extra local commits

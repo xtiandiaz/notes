@@ -24,3 +24,26 @@ https://mrmacintosh.com/macos-12-monterey-full-installer-database-download-direc
 https://mrmacintosh.com/macos-ventura-13-full-installer-database-download-directly-from-apple/
 1. High Sierra 10.13.6 \
 _From the App Store at the dad's laptop_
+
+## Process
+
+### SSD installation
+
+A-OK.
+
+#### Formatting
+1. For _High Sierra_
+    * Name: Macintosh SSD
+    * Format: Mac OS Extended (case-sensitive, journaled); NON-encrypted
+    * Scheme: GUID Partition Map
+1. For _Monterey_
+    * Format: APFS (case-sensitive)
+
+Done.
+
+### Followed tutorials
+
+1. Create intial bootable installer: https://support.apple.com/en-us/101578
+1. MrMacintosh step by step video tut: https://www.youtube.com/watch?v=-huRykhjs6g
+1. Other guy's tut: https://www.youtube.com/watch?v=nn3jO8sxI8k
+1. OCLP's docs: https://dortania.github.io/OpenCore-Legacy-Patcher/POST-INSTALL.html#booting-without-usb-drive, esp. to sort out the lack of pop-up to Build and Install OpenCore in the internal drive in order to settle down the installation.
