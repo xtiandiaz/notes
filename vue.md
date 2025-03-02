@@ -10,3 +10,7 @@ npm install
 npm run format
 npm run dev
 ```
+
+## Shipping
+
+`npm run build`
