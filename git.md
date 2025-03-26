@@ -1,26 +1,33 @@
 # Git
 
+## Add
+### By force (file excluded in `.gitignore`)
+`git add path/to/file -f`
+
+## Commit
+### Amend latest message
+`git commit --amend -m <message>`
+
+## Diff
+`git diff <commit>`
+
 ## Log
 `git log --oneline --graph`
 
 ## Remote
 ### Add origin
-`git remote add orign git@[hostname]:[username]/[repo_name].git`
+`git remote add orign git@<hostname>:<username>/<repo-name>.git`
 
 ### List
 `git remote -v`
 ### Set URL
-`git remote set-url origin git@[hostname]:[username]/[repo_name].git`
-e.g., `[hostname]`: `xtiandiaz.github.com` (as described @ `~/.ssh/config`)
+`git remote set-url origin git@<hostname>:<username>/<repo-name>.git`
+e.g., `<hostname>`: `xtiandiaz.github.com` (as described @ `~/.ssh/config`)
 
 ## Branch
 
 ### Set tracking info.
 `git branch --set-upstream-to=origin/<remote-branch> <local-branch>`
-
-## Add
-### By force (file excluded in `.gitignore`)
-`git add path/to/file -f`
 
 ## Pull
 ### Unrelated histories
@@ -48,19 +55,25 @@ e.g., `[hostname]`: `xtiandiaz.github.com` (as described @ `~/.ssh/config`)
 
 ## Config
 ### User
-`git config user.name [name_or_username]` \
-`git config user.email [e_mail]`
+`git config user.name <name-or-username> [--global]` \
+`git config user.email <email> [--global]`
 
-@ local repository's file `.git/config`
-
-Optional `--global` flag for `~/.gitconfig` file
+Local repository's file: `.git/config` \
+Global: `~/.gitconfig`
 
 #### Submodule
-Location: `.git/modules/[name]/config`
+Location: `.git/modules/<name>/config`
+
+## Show
+### Summary of commit
+`git show <commit> --stat`
 
 ## Submodules
 ### Add
-`git submodule add git@[hostname]:[username]/[repo_name].git [optional_subfolder]`
+`git submodule add git@<hostname>:<username>/<repo-name>.git <optional-subfolder>`
+
+### Update
+`git sumbodule update --init --recursive`
 
 ### Remove
-`git rm [submodule_folder]` (optionally `--cached`)
+`git rm <submodule-folder>` [`--cached`]

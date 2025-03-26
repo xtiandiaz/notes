@@ -40,3 +40,8 @@ LT41SGPX, GM-F432HLHN, LT41BGPX, LT41SGDX, LT41SGP, LT41SGPX, LT41WGPXT, LT43BGP
 | Cable calentador cámara interna nevera | 120V 10.5W | 1.37kΩ | 1.306kΩ | ✓ | ✅ |
 | Cable resistecia serpentín congelador | 120V 150W | 96 Ω | 96 Ω | ✓ | ✅ |
 | Cable revestimiento interno congelador | 120V 53W | 271.69 Ω | ❌ | ❌ | ❌ |
+
+## Conclusiones
+
+* Única posible parte afectada: **LG MEE62225005** \
+Disponible en: [MercadoLibre MX](https://articulo.mercadolibre.com.mx/MLM-1424164315-resistencia-para-refrigerador-lg-mee62225005-original-_JM)
