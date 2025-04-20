@@ -35,13 +35,19 @@ LT41SGPX, GM-F432HLHN, LT41BGPX, LT41SGDX, LT41SGP, LT41SGPX, LT41WGPXT, LT43BGP
 
 #### Ohmniaje Ω
 
-| Resistencia | Especificaciones impresas | Medida esperada según cálculos | Medida obtenida | Medida verificada en el conector de la tarjeta electrónica | Estado aparente |
+| Resistencia | Especificaciones impresas | Medida esperada según cálculos (R=V^2/P) | Medida obtenida | Medida verificada en el conector de la tarjeta electrónica | Estado aparente |
 | --- | --- | --- | --- | --- | --- |
-| Cable calentador cámara interna nevera | 120V 10.5W | 1.37kΩ | 1.306kΩ | ✓ | ✅ |
-| Cable resistecia serpentín congelador | 120V 150W | 96 Ω | 96 Ω | ✓ | ✅ |
-| Cable revestimiento interno congelador | 120V 53W | 271.69 Ω | ❌ | ❌ | ❌ |
+| Cable calentador cámara interna nevera 🔴 | 120V 10.5W | 1.37kΩ | 1.306kΩ | ✓ | ✅ |
+| Cable resistecia serpentín congelador 🟡 | 120V 150W | 96 Ω | 96 Ω | ✓ | ✅ |
+| Cable revestimiento interno congelador 🟠 | 120V 53W | 271.69 Ω | ❌ | ❌ | ❌ |
 
 ## Conclusiones
 
 * Única posible parte afectada: **LG MEE62225005** \
 Disponible en: [MercadoLibre MX](https://articulo.mercadolibre.com.mx/MLM-1424164315-resistencia-para-refrigerador-lg-mee62225005-original-_JM)
+
+## Proveedores de partes
+
+1. **Electro Service** \
+Cra 27 #18-69S, Antonio Nariño, Bogotá, Cundinamarca \
+https://maps.app.goo.gl/vesjKRcBq55gaLvv6

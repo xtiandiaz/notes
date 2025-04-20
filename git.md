@@ -4,12 +4,26 @@
 ### By force (file excluded in `.gitignore`)
 `git add path/to/file -f`
 
+## Clean
+To remove untracked files from the working tree
+`git clean [-f]`
+
 ## Commit
 ### Amend latest message
 `git commit --amend -m <message>`
 
 ## Diff
 `git diff <commit>`
+
+## Move
+`git mv [<options>] <source> <destination>`
+
+## Remove
+`git rm [-f] [-r] <path>`
+
+## Reset 
+### Rewind history
+`git reset --hard <commit> && git clean -f`
 
 ## Log
 `git log --oneline --graph`
@@ -61,19 +75,31 @@ e.g., `<hostname>`: `xtiandiaz.github.com` (as described @ `~/.ssh/config`)
 Local repository's file: `.git/config` \
 Global: `~/.gitconfig`
 
-#### Submodule
+### Submodule
 Location: `.git/modules/<name>/config`
+
+
 
 ## Show
 ### Summary of commit
 `git show <commit> --stat`
 
-## Submodules
+
+
+## Submodule
 ### Add
 `git submodule add git@<hostname>:<username>/<repo-name>.git <optional-subfolder>`
 
+### Deinit
+`git submodule deinit -f -- <path>`
+#### All
+`git submodule deinit -f --all`
+
 ### Update
-`git sumbodule update --init --recursive`
+`git submodule update --init --recursive`
 
 ### Remove
 `git rm <submodule-folder>` [`--cached`]
+
+### Status
+`git submodule status` Lists all active submodules
