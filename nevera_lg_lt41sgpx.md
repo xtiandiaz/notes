@@ -43,11 +43,12 @@ LT41SGPX, GM-F432HLHN, LT41BGPX, LT41SGDX, LT41SGP, LT41SGPX, LT41WGPXT, LT43BGP
 
 ## Conclusiones
 
-* Única posible parte afectada: **LG MEE62225005** \
-Disponible en: [MercadoLibre MX](https://articulo.mercadolibre.com.mx/MLM-1424164315-resistencia-para-refrigerador-lg-mee62225005-original-_JM)
+* (Probablemente) única parte afectada: **LG MEE62225005**
 
-## Proveedores de partes
+### Proveedores de partes
 
-1. **Electro Service** \
+- **Electro Service SAS** \
 Cra 27 #18-69S, Antonio Nariño, Bogotá, Cundinamarca \
-https://maps.app.goo.gl/vesjKRcBq55gaLvv6
++57 321 3113760
+
+> Parte comprada 10/04/2025 y recibida 15/04/2025
