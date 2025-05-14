@@ -126,7 +126,9 @@ Se corresponde con la afectación de todo el cartílago y, además, del hueso qu
     1. Es solo inflamación o también lo ves como retención excesivo de líquido?
 1. Es necesaria, recomendable y podrías autorizar una _reflexoterapia_ (reflexología) (podal) para eliminar la inflamación restante?
     1. Cuál otra terapia específica me recomiendas?
+1. Podría usar ya bandas elásticas de rehabilitación para ejercicios sencillos?
 1. Qué fecha estimada nos das para el otro procedimiento (rodilla izquierda)?
+
 
 ### Opcionales
 ---
