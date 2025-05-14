@@ -53,10 +53,6 @@ e.g., `<hostname>`: `xtiandiaz.github.com` (as described @ `~/.ssh/config`)
 ### First
 `git push -u origin main`
 
-## Reset
-## Forfeit all extra local commits
-`git reset --hard origin/main`
-
 ## Rebase
 ### All commits from current to root
 `git rebase --root -i`
@@ -66,6 +62,21 @@ e.g., `<hostname>`: `xtiandiaz.github.com` (as described @ `~/.ssh/config`)
 `git rebase -i <commit>`
 #### Amend
 `git commit --amend --author="Name <email>" --no-edit`
+
+## Reset
+### Forfeit all extra local commits
+`git reset --hard origin/main`
+
+### Revert previous commit
+
+`git reset --soft HEAD~1`
+
+But leaves its changes staged.
+
+## Restore
+
+### All staged files
+`git restore --staged .`
 
 ## Config
 ### User

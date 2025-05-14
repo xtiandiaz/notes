@@ -115,3 +115,29 @@ Se corresponde con la afectación de todo el cartílago y, además, del hueso qu
 
 * **Contar con otras varias opiniones profesionales antes e proceder a la cirugía por artroscopía**.
 * **Ya que aún NO es un caso tan grave (y puede que nunca lo sea  con el debido cuidado y prevención), hay que procurar evitar la intervención.**
+
+## Preguntas examen control 14.05.25
+
+1. Por la disminucición del espesor, cuál es la probabilidad de que se siga rompiendo el menisco?\
+**Respuesta**
+1. En la derecha, "Leve aumento del líquido intraarticular con mayor compromiso de la bursa suprapatelar asociado a ligera hipertrofia sinovial"? Por qué hipertrofia? Se resolvió con la artroscopia?\
+**Respuesta**
+1. En la izquierda, solo hay "Leve aumento del líquido en la bursa suprapatelar", cuál es la causa?\
+**Respuesta**
+1. Como la izquierda solo tiene rotura horizontal, es necesaria una segunda resonancia para confirmar una nueva intervención?\
+**Respuesta**
+1. Sigue habiendo inflamación en la derecha, es normal? Cuál puede ser la causa? Cómo disminuirla?\
+**Respuesta**
+    1. Es solo inflamación o también lo ves como retención excesivo de líquido?\
+    **Respuesta**
+1. Es necesaria, recomendable y podrías autorizar una _reflexoterapia_ (reflexología) (podal) para eliminar la inflamación restante?\
+**Respuesta**
+    1. Cuál otra terapia específica me recomiendas?\
+    **Respuesta**
+
+### Opcionales
+---
+1. Porqué la rodilla derecha siempre ha estado más inflamada que la izquierda?\
+**Respuesta**
+1. Asumimos que la retención de líquido anormal es un síntoma común del hipotiroidismo, cómo prevenir?\
+**Respuesta**
